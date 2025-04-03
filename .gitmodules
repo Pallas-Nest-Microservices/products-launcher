@@ -4,3 +4,6 @@
 [submodule "order-ms"]
 	path = order-ms
 	url = https://github.com/Pallas-Nest-Microservices/orders-ms
+[submodule "products-ms"]
+	path = products-ms
+	url = https://github.com/Pallas-Nest-Microservices/products-microservice.git
